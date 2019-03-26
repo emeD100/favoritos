@@ -1,0 +1,45 @@
+.favorito{
+    display: none;
+}
+.cardbody{
+
+    max-height: 50vh;
+    overflow-y: auto;     
+    overflow-x: hidden;
+}
+.dropdown-menu{
+    
+    background: rgb(80, 80, 240);
+
+    
+    
+}
+.dropdown-item{
+    color : white;
+    
+    
+}
+.item{
+    box-shadow: 0.2vw 0.2vw 0.2vw rgba(128, 128, 128, 0.589);
+    padding: 1vw;
+    margin: 1vw;
+}
+.item img{
+    padding-right: 2vw;
+}
+.card-titulo{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.card-header{
+    font-size: 1rem;
+}
+
+.card{
+
+    box-shadow: 0.4rem 0.4rem 0.4rem rgba(128, 128, 128, 0.589);
+    margin-top: 1rem;
+}
+.myClase{
+    height: 60px;
+}
